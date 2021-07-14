@@ -1,0 +1,9 @@
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\bin\Debug\Map Info.exe
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\bin\Debug\Map Info.pdb
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\Map_Info.Form1.resources
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\Map_Info.Properties.Resources.resources
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\Map Info.exe
+c:\users\gis\documents\visual studio 2010\Projects\Map Info\Map Info\obj\x86\Debug\Map Info.pdb
